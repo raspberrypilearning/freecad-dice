@@ -60,7 +60,7 @@ or:
 
 ![create_square_2](images/create_square_2.png)
 
-![ConstraintPointOnPoint](images/ContraintPointOnPoint.png)
+![ConstraintPointOnPoint](images/ConstraintPointOnPoint.png)
 --- /task ---
 
 You'll probably notice that in the **Tasks** tab, there is a message saying that you have an `Under-constrained sketch with 2 degrees of freedom`. If you click on your square and drag an edge around a little, you will see that it can be both rotated and resized. These are the `two degrees of freedom`. You should always make sure that your sketches are fully constrained.
@@ -80,7 +80,7 @@ This should stop the square from rotating and reduce the number of degrees of fr
 --- task ---
 Select the right edge of the square and then use the *Fix the vertical distance between two points or line ends* icon, to set the length of the line to **7mm**
 
-![Constraint_Vertical](images/Constraint_Vertical.png)
+![Constraint_VerticalDistance](images/Constraint_VerticalDistance.png)
 
 You should now see the message in the **Tasks** tab saying `Fully constrained sketch`
 --- /task ---
@@ -90,7 +90,7 @@ To finish off this section, you can change the square to a construction geometry
 --- task ---
 Hold down the **Ctrl** key and select all four lines of the square. Then click on the *Toggles the toolbar or selected geometry to/from construction mode* icon.
 
-![Sketcher_ToggleConstruction](images/Sketcher_ToggleConstruction.png)
+![Sketcher_AlterConstruction](images/Sketcher_AlterConstruction.png)
 
 The square should turn blue.
 
