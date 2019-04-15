@@ -60,5 +60,5 @@ or:
 
 ![create_square_2](images/create_square_2.png)
 
-![Constraint_PointOnPoint](images/Contraint_PointOnPoint.png)
+![ConstraintPointOnPoint](images/ContraintPointOnPoint.png)
 --- /task ---
