@@ -13,6 +13,8 @@ In the menu bar, you should see some icons that allow you to do **Boolean operat
 --- task ---
 With the cube and sphere both selected, use the *Make an intersection of two shapes* icon to combine them both into a single object.
 
+![Part_Common](images/Part_Common.png)
+
 ![cube-intersect-sphere](images/cube-intersect-sphere.png)
 --- /task ---
 
