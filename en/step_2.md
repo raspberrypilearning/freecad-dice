@@ -7,7 +7,9 @@ Open FreeCAD from you application menu. You should see a screen that looks like 
 --- /task ---
 
 --- task ---
-Click on the ![document-new](images/document-new.png) icon to create a new document.
+Click on the icon to create a new document.
+
+![document-new](images/document-new.png)
 --- /task ---
 
 --- task ---
@@ -21,7 +23,8 @@ FreeCAD has many different **Workbenches** each with their own set of tools. To 
 --- /task ---
 
 --- task ---
-In the Part Workbench, you have access to primitive objects such as a cube, a cylinder and a sphere. Theses are 3D objects that you can add to your projects and then edit their parameters.
+In the Part Workbench, you have access to [primitive objects](https://en.wikipedia.org/wiki/Geometric_primitive#Common_primitives) such as a cube, a cylinder and a sphere. Theses are 3D objects that you can add to your projects and then edit their parameters.
 
+![primitives](images/primitives.png)
 
 --- /task ---
