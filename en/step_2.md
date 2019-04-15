@@ -3,7 +3,7 @@
 --- task ---
 Open FreeCAD from you application menu. You should see a screen that looks like this:
 
-![FreeCAD user inteface](images/freecad-interface.png)
+![FreeCAD user interface](images/freecad-interface.png)
 --- /task ---
 
 --- task ---
@@ -48,5 +48,31 @@ And to manually alter the view you can use:
 --- no-print ---
 ![rotate-move-scale](images/rotate-move-scale.gif)
 --- /no-print ---
+--- /task ---
+
+The cube is currently 10mm x 10mm x 10mm, which is a little small. It is also not in the centre of the project, so the next task is to edit the cube's parameters.
+
+--- task ---
+Click on the *Draw Style* icon
+
+![DrawStyleAsIs](images/DrawStyleAsIs.png)
+
+Then select *Wireframe mode* from the context menu.
+
+![DrawStyleWireFrame](images/DrawStyleWireFrame.png)
+--- /task ---
+
+--- task ---
+Click on **View** and then **Toggle axis cross** to see the projects central axis.
+
+![toggle-axis-cross](images/toggle-axis-cross)
+--- /task ---
+
+--- task ---
+With the cube selected in the *Labels & Attributes* view, make sure you have selected the *Data* tab at the bottom of the screen. Edit the cubes *Length*, *Width* and *Height*, so each is 15mm. Then edit the *X*, *Y* and *Z* position of the cube so that each are at -7.5mm.
+
+![edit-parameters](images/edit-parameters.png)
+
+You should be able to see that the axis cross is now in the centre of the cube.
 --- /task ---
 
