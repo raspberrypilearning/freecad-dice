@@ -11,7 +11,7 @@ In the menu bar, you should see some icons that allow you to do **Boolean operat
 ![Booleans](images/booleans.png)
 
 --- task ---
-With the cube and sphere both selected, use the *Make and intersection of two shapes* icon to combine them both into a single object.
+With the cube and sphere both selected, use the *Make an intersection of two shapes* icon to combine them both into a single object.
 
 ![cube-intersect-sphere](images/cube-intersect-sphere.png)
 --- /task ---
