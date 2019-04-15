@@ -1,4 +1,4 @@
-## Adding pips
+## Adding construction geometry
 
 Now that you have the 3D shape of the dice, it's time to add the pips that represent the numbers.
 
@@ -29,7 +29,7 @@ Next, select the face of the dice that your first set of pips will be added to a
 Your perspective on your dice should change, and you the tab will switch to the **Tasks** tab.
 --- /task ---
 
-To make sure that the pips are all placed accurately you will need to create a construction sketch to begin with. This sketch is a little like a guide, helping you to accurately place the remaining sketch.
+To make sure that the pips are all placed accurately you will need to create a construction geometery to begin with. This is a little like a guide, helping you to accurately place the remaining sketch.
 
 --- task ---
 Click on the drop down arrow next to the *Create a regular polygon in the sketcher* icon.
@@ -61,4 +61,38 @@ or:
 ![create_square_2](images/create_square_2.png)
 
 ![ConstraintPointOnPoint](images/ContraintPointOnPoint.png)
+--- /task ---
+
+You'll probably notice that in the **Tasks** tab, there is a message saying that you have an `Under-constrained sketch with 2 degrees of freedom`. If you click on your square and drag an edge around a little, you will see that it can be both rotated and resized. These are the `two degrees of freedom`. You should always make sure that your sketches are fully constrained.
+
+--- task ---
+Press the **Esc** key to deselect the current tool you are using.
+
+Click on one of the edges of your square and then click on the horizontal or vertical axis (in red or green). You can then set these two lines to be parallel to each other, using the *Create a parallel constraint between two lines* icon.
+
+![Constraint_Parallel](images/Constraint_Parallel.png)
+
+![parallel_constraint_added](images/parallel_constraint_added.png)
+
+This should stop the square from rotating and reduce the number of degrees of freedom to 1.
+--- /task ---
+
+--- task ---
+Select the right edge of the square and then use the *Fix the vertical distance between two points or line ends* icon, to set the length of the line to **7mm**
+
+![Constraint_Vertical](images/Constraint_Vertical.png)
+
+You should now see the message in the **Tasks** tab saying `Fully constrained sketch`
+--- /task ---
+
+To finish off this section, you can change the square to a construction geometry.
+
+--- task ---
+Hold down the **Ctrl** key and select all four lines of the square. Then click on the *Toggles the toolbar or selected geometry to/from construction mode* icon.
+
+![Sketcher_ToggleConstruction](images/Sketcher_ToggleConstruction.png)
+
+The square should turn blue.
+
+![construction_geometry.png](images/construction_geometry.png)
 --- /task ---
