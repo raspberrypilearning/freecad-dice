@@ -30,4 +30,23 @@ In the Part Workbench, you have access to [primitive objects](https://en.wikiped
 ![primitives](images/primitives.png)
 
 Click on the Cube icon to add a cube to your file.
+
+![freecad-cube](images/freecad-cube.png)
 --- /task ---
+
+--- task ---
+You can change the view of your project using the view icons.
+
+![views](images/views.png)
+
+And to manually alter the view you can use:
+
+- `Ctrl` + `right-mouse-button` to move the view
+- `Shift` + `right-mouse-button` to rotate the view
+- `Ctrl` + `Shift` + `right-mouse-button` to zoom the view
+
+--- no-print ---
+![rotate-move-scale](images/rotate-move-scale.gif)
+--- /no-print ---
+--- /task ---
+
