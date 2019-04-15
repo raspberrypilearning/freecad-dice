@@ -1,4 +1,4 @@
-## Adding pips to one face
+## Adding pips
 
 Now that you have the 3D shape of the dice, it's time to add the pips that represent the numbers.
 

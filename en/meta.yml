@@ -7,5 +7,6 @@ copyedit: false
 last_tested: "2019-03-01"
 steps:
   - title: Introduction
-  - title: Step title
-  - title: What next?
+  - title: Modelling a cube
+  - title: Rounding the cube
+  - title: Adding pips

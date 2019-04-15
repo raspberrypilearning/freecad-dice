@@ -1,4 +1,4 @@
-## Step title
+## Modelling a cube
 
 --- task ---
 Open FreeCAD from you application menu. You should see a screen that looks like this:
