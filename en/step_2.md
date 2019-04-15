@@ -65,11 +65,21 @@ Then select *Wireframe mode* from the context menu.
 --- task ---
 Click on **View** and then **Toggle axis cross** to see the projects central axis.
 
-![toggle-axis-cross](images/toggle-axis-cross)
+![toggle-axis-cross](images/toggle-axis-cross.png)
 --- /task ---
 
 --- task ---
-With the cube selected in the *Labels & Attributes* view, make sure you have selected the *Data* tab at the bottom of the screen. Edit the cubes *Length*, *Width* and *Height*, so each is 15mm. Then edit the *X*, *Y* and *Z* position of the cube so that each are at -7.5mm.
+With the cube selected in the *Labels & Attributes* view, make sure you have selected the *Data* tab at the bottom of the screen. Edit the cubes *Length*, *Width* and *Height*, then edit the *x*, *y* and *z* position of the cube.
+
+```
+Length: 15mm
+Width:  15mm
+Height: 15mm
+Position:
+	x: -7.5mm
+	y: -7.5mm
+	z: -7.5mm
+```
 
 ![edit-parameters](images/edit-parameters.png)
 
