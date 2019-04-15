@@ -7,13 +7,15 @@ Open FreeCAD from you application menu. You should see a screen that looks like 
 --- /task ---
 
 --- task ---
-Click on the icon to create a new document.
+Click on the *Create a new empty document* icon to get started.
 
 ![document-new](images/document-new.png)
 --- /task ---
 
 --- task ---
-Save your project using the **File** menu and call it **Dice**.
+Click on the *Save the active document* icon and call your file **Dice**
+
+![document-save](images/document-save.png)
 --- /task ---
 
 --- task ---
@@ -27,4 +29,5 @@ In the Part Workbench, you have access to [primitive objects](https://en.wikiped
 
 ![primitives](images/primitives.png)
 
+Click on the Cube icon to add a cube to your file.
 --- /task ---
