@@ -7,7 +7,7 @@ Open FreeCAD from you application menu. You should see a screen that looks like 
 --- /task ---
 
 --- task ---
-Click on the ![document-new](images/document-new.svg) icon to create a new document.
+Click on the ![document-new](images/document-new.png) icon to create a new document.
 --- /task ---
 
 --- task ---
