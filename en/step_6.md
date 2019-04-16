@@ -1,4 +1,4 @@
-## Creating Pockets
+## Creating pockets
 
 Now that yu have drawn the pips, they need to be physically set into the dice.
 
