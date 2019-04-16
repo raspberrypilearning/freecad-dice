@@ -27,6 +27,8 @@ Next, select the face of the dice that your first set of pips will be added to a
 ![Sketcher_New_Sketch](images/Sketcher_New_Sketch.png)
 
 Your perspective on your dice should change, and you the tab will switch to the **Tasks** tab.
+
+![task_tab](images/task_tab.png)
 --- /task ---
 
 To make sure that the pips are all placed accurately you will need to create a construction geometery to begin with. This is a little like a guide, helping you to accurately place the remaining sketch.
