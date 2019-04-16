@@ -13,7 +13,7 @@ Click on the *Create a circle in the Sketcher* icon, and then use this to create
 You'll probably notice in the **Tasks** tab that the sketch has a large number of degrees of freedom.
 
 --- task ---
-Yse the *Create a coincident constraint on the selected item* icon to place a circle at each of the corners of your construction geometry.
+Use the *Create a coincident constraint on the selected item* icon to place a circle at each of the corners of your construction geometry.
 
 ![ConstraintPointOnPoint](images/ConstraintPointOnPoint.png) 
 
@@ -49,7 +49,7 @@ And set the radius to 7mm
 --- task ---
 Then use the **Ctrl** key to select all six circles and make them equal in size to each other by using the *Create an equality constraint between two lines or between circles and arcs* icon
 
-![Constraint_EqualLength](images/Constraint_EqualLength)
+![Constraint_EqualLength](images/Constraint_EqualLength.png)
 
 ![six_pips](images/six_pips.png)
 
