@@ -23,6 +23,7 @@ title: What you will need
 ### Software
 
 + [FreeCAD](https://www.freecadweb.org/)
++ []() if you need to export your model to a `.gcode` file.
 
 --- /collapse ---
 
