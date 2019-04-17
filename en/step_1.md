@@ -1,6 +1,6 @@
 ## Introduction
 
-In this project you will be using 3D parametric modelling software to design a simple dice, and then if you have access to a 3D printer, you can print your model.
+In this project you will be using 3D parametric modeling software to design a simple dice, and then if you have access to a 3D printer, you can print your model.
 
 ### What you will make
 
@@ -32,7 +32,7 @@ title: What you will need
 title: What you will learn
 ---
 
-+ Know how to use basic boolean operations on primitives
++ Know how to use basic Boolean operations on primitives
 + Know how to create a sketch on a 3d surface
 + Know how to create pockets in a surface from a sketch
 

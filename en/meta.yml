@@ -7,9 +7,10 @@ copyedit: false
 last_tested: "2019-03-01"
 steps:
   - title: Introduction
-  - title: Modelling a cube
+  - title: Modeling a cube
   - title: Rounding the cube
   - title: Adding construction geometry
   - title: Adding pips
   - title: Creating pockets
   - title: Exporting your dice
+  - title: Printing the dice

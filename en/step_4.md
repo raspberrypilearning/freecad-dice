@@ -16,7 +16,7 @@ Switch to the **Part Design** workbench
 Make sure that your **Common** object is selected and then click on the *Create a new body and make it active* icon.
 ![PartDesign_Body_Create_New](images/PartDesign_Body_Create_New.png)
 
-Clicking on the **Model** tab you should see that your **Common** object is greyed out.
+Clicking on the **Model** tab you should see that your **Common** object is grayed out.
 
 ![create-new-body](images/create-new-body.png)
 --- /task ---
@@ -31,7 +31,7 @@ Your perspective on your dice should change, and you the tab will switch to the 
 ![task_tab](images/task_tab.png)
 --- /task ---
 
-To make sure that the pips are all placed accurately you will need to create a construction geometery to begin with. This is a little like a guide, helping you to accurately place the remaining sketch.
+To make sure that the pips are all placed accurately you will need to create a construction geometry to begin with. This is a little like a guide, helping you to accurately place the remaining sketch.
 
 --- task ---
 Click on the drop down arrow next to the *Create a regular polygon in the sketcher* icon.
