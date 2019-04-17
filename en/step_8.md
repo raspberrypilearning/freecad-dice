@@ -2,8 +2,6 @@
 
 Instructions can't be provided for all 3D printers, but the example here uses the [Octoprint](https://octoprint.org/) software to print the dice of a Lulzbot TAZ 6.
 
-![printing](images/printing.gif)
-
 --- task ---
 Turn on the 3D printer and load the Octoprint software.
 
@@ -24,7 +22,7 @@ Then load and print the file.
 
 Your printer should start printing the dice, as soon as it has warmed up.
 
-VIDEO HERE
+![printing](images/printing.gif)
 
 --- task ---
 You may find that the pips are a little faint on the dice. You could set the pocket size on your FreeCAD file to be a little deeper, or simply use a permanent marker to colour in the pips.
