@@ -23,7 +23,8 @@ title: What you will need
 ### Software
 
 + [FreeCAD](https://www.freecadweb.org/)
-+ []() if you need to export your model to a `.gcode` file.
++ Optional [Cura](https://ultimaker.com/en/resources/51943-installation-ultimaker-cura) if you need to export your model to a `.gcode` file.
++ Optional [Octopi](https://octoprint.org/download/) for managing your 3D printer.
 
 --- /collapse ---
 
