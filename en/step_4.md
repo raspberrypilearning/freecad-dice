@@ -13,7 +13,7 @@ Switch to the **Part Design** workbench
 --- /task ---
 
 --- task ---
-Make sure that your **Common** object is selected and then click on the *Create a new body and make it active* icon.
+Make sure that your **Common** object is selected in the **Model** tab, and then click on the *Create a new body and make it active* icon.
 ![PartDesign_Body_Create_New](images/PartDesign_Body_Create_New.png)
 
 Clicking on the **Model** tab you should see that your **Common** object is grayed out.
@@ -50,17 +50,17 @@ The second way is to draw the square anyway, and then use a constraint to place 
 --- task ---
 Place the square in the centre of the dice by either:
 
-- Carefully clicking on the central dot and then dragging out to draw your square
+- Carefully clicking on the central dot and then dragging out to draw your square. It can be of any size. Press the **Escape** key so you are no longer drawing squares.
 
 ![create_square_1](images/create_square_1.png)
 
 or:
 
-- Draw the square anywhere, then click the dot in the centre of the screen and while holding down the **Ctrl** key, click the dot in the centre of the square.
+- Draw the square anywhere and of any size. Press the **Escape** key, so you are no longer drawing squares and then click the dot in the centre of the screen and while holding down the **Ctrl** key, click the dot in the centre of the square.
 
 - Now use the *Create a coincident constraint on the selected item* icon to move the square to the centre.
 
-![create_square_2](images/create_square_2.png)
+![create_square_2_highllighted](images/create_square_2_highlighted.png)
 
 ![ConstraintPointOnPoint](images/ConstraintPointOnPoint.png)
 --- /task ---

@@ -1,5 +1,8 @@
 ## Rounding the cube
-
+--- task ---
+Switch back to the `As is` view.
+--- /task ---
+![change-model-view](images/change-model-view.png)
 --- task ---
 Now add a sphere to your project and give it a radius of **10mm**. It should automatically be central with the cube.
 
