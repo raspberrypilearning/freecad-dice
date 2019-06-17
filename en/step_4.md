@@ -60,7 +60,7 @@ or:
 
 - Now use the *Create a coincident constraint on the selected item* icon to move the square to the centre.
 
-![create_square_2](images/create_square_2.png)
+![create_square_2_highllighted](images/create_square_2_highlighted.png)
 
 ![ConstraintPointOnPoint](images/ConstraintPointOnPoint.png)
 --- /task ---
