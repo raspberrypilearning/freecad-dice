@@ -13,7 +13,7 @@ Click on the *Create a circle in the Sketcher* icon, and then use this to create
 You'll probably notice in the **Tasks** tab that the sketch has a large number of degrees of freedom.
 
 --- task ---
-Use the *Create a coincident constraint on the selected item* icon to place a circle at each of the corners of your construction geometry.
+Click the centre of a circle and then hold down **ctrl** and select a corner of the construction geometry. Use the *Create a coincident constraint on the selected item* icon to place the circle at a corner of the square. Repeat this with another three circles..
 
 ![ConstraintPointOnPoint](images/ConstraintPointOnPoint.png) 
 
@@ -21,7 +21,7 @@ Use the *Create a coincident constraint on the selected item* icon to place a ci
 --- /task ---
 
 --- task ---
-The remaining two circles can then be aligned vertically with the corners of the construction geometry, using the *Create a vertical constraint on the selected item* icon.
+The remaining two circles can then be aligned vertically with the corners of the construction geometry. Click the centre of one of the circles, then **Ctrl** click the left hand edge of the square. Using the *Create a vertical constraint on the selected item* icon, to align the cirle with the left edge, then repeat this action for the remaining circle and the right edge.
 
 ![Constraint_Vertical](images/Constraint_Vertical.png)
 
@@ -29,7 +29,7 @@ The remaining two circles can then be aligned vertically with the corners of the
 --- /task ---
 
 --- task ---
-Then you can align the two middle circles with each other and with the centre of the construction geometry, using the *Create a horizontal constraint on the selected item* icon
+Then you can align the two middle circles with each other and with the centre of the construction geometry. Click the centre of the square and **Ctrl** click the two circles. Use the *Create a horizontal constraint on the selected item* icon so that all three are horizontally aligned.
 
 ![Constraint_Horizontal](images/Constraint_Horizontal.png)
 
@@ -41,7 +41,7 @@ Now set the radius of one of the circles using the *Fix the radius of a circle o
 
 ![Constraint_Radius](images/Constraint_Radius.png)
 
-And set the radius to 7mm
+And set the radius to 1.25mm
 
 ![radius_set](images/radius_set.png)
 --- /task ---
