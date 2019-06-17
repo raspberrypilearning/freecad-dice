@@ -82,7 +82,7 @@ Width:  15mm
 Height: 15mm
 ```
 
-![edit-parameters](images/edit-parameters.png)
+![edit-parameters](images/edit-parameters_highlights.png)
 
 You should be able to see that the axis cross is now in the centre of the cube.
 --- /task ---
