@@ -1,6 +1,6 @@
 ## Printing the dice
 
-Instructions can't be provided for all 3D printers, but the example here uses the [Octoprint](https://octoprint.org/) software to print the dice of a Lulzbot TAZ 6.
+Instructions can't be provided for all 3D printers, but the example here uses the [Octoprint](https://octoprint.org/) software to print the dice on a Lulzbot TAZ 6.
 
 --- task ---
 Turn on the 3D printer and load the Octoprint software.
