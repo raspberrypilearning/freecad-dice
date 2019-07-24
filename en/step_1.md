@@ -14,6 +14,13 @@ In this project you will be using 3D parametric modeling software to design a si
 
 --- collapse ---
 ---
+title: What you will learn
+---
+![dmc](images/freecad-dice-dmc.png)
+--- /collapse ---
+
+--- collapse ---
+---
 title: What you will need
 ---
 ### Hardware
@@ -28,16 +35,7 @@ title: What you will need
 
 --- /collapse ---
 
---- collapse ---
----
-title: What you will learn
----
 
-+ Know how to use basic Boolean operations on primitives
-+ Know how to create a sketch on a 3d surface
-+ Know how to create pockets in a surface from a sketch
-
---- /collapse ---
 
 --- collapse ---
 ---
