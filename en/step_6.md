@@ -28,7 +28,11 @@ Now you need to add dots to the other faces. Use exactly the same steps:
 
 --- hints --- --- hint ---
 In case you get stuck, here is a video showing you how to add the dots.
-VIDEO TO BE INSERTED HERE
+<video width="640" height="360" controls>
+<source src="images/add-remaining-pips.webm" type="video/webm">
+Your browser does not support WebM video, try FireFox or Chrome
+</video>
+
 --- /hint --- --- /hints ---
 --- /task ---
 
