@@ -1,6 +1,3 @@
 # What next?
 
-To discover more about FreeCAD, try out these projects about making a headphone tidy and a chess set:
-
-+ ![Headphone tidy](https://learning-admin.raspberrypi.org/en/projects/freecad-headphone-tidy)
-+ ![Chess set](https://learning-admin.raspberrypi.org/en/projects/freecad-chess-set)
+If you haven't already, try the other FreeCAD projects on the [Raspberry Pi Projects website](https://projects.raspberrypi.org/){:target="_blank"} to [make a chess set or a headphone tidy](https://projects.raspberrypi.org/en/projects?software%5B%5D=freecad){:target="_blank"}.
