@@ -1,6 +1,6 @@
-## Creating pockets
+## Create pockets
 
-Now that you have drawn the pips, they need to be physically set into the dice.
+Now that you have drawn the dots, you need to set them **into the surface** the dice.
 
 --- task ---
 Hold down the **Ctrl** key and select all six circles on the surface of the dice.
@@ -9,7 +9,9 @@ Hold down the **Ctrl** key and select all six circles on the surface of the dice
 --- /task ---
 
 --- task ---
-Use the *Create a pocket with the selected sketch* icon, to create six pockets in the surface of the dice, and set the dept to 0.25mm.
+Click on the **Create a pocket with the selected sketch** icon to create six pockets in the surface of the dice.
+
+Set the pocket depth to 0.25mm.
 
 ![PartDesign_Pocket](images/PartDesign_Pocket.png)
 
@@ -17,13 +19,20 @@ Use the *Create a pocket with the selected sketch* icon, to create six pockets i
 --- /task ---
 
 --- task ---
-Now that you have added the pips to one face, you need to do this for the other faces. Use exactly the same method - creating construction geometry and then aligning your circles to it, adding pockets each time.
+Now you need to add dots to the other faces. Use exactly the same steps:
+1. Add construction geometry
+1. Draw circles and align them to the geometry
+1. Create pockets based on the circles as the dots
 
 ![all_faces](images/all_faces.png)
 
 --- hints --- --- hint ---
-Here is a video, showing you how to do this if you get stuck.
-VIDEO TO BE INSERTED HERE
+In case you get stuck, here is a video showing you how to add the dots.
+<video width="640" height="360" controls>
+<source src="images/add-remaining-pips.webm" type="video/webm">
+Your browser does not support WebM video, try FireFox or Chrome
+</video>
+
 --- /hint --- --- /hints ---
 --- /task ---
 

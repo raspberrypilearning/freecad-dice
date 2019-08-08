@@ -1,6 +1,6 @@
 ## Introduction
 
-In this project you will be using 3D parametric modeling software to design a simple dice, and then if you have access to a 3D printer, you can print your model.
+In this project you will design a simple dice using 3D parametric modeling software. If you have access to a 3D printer, you will then print your model.
 
 ### What you will make
 
@@ -14,6 +14,13 @@ In this project you will be using 3D parametric modeling software to design a si
 
 --- collapse ---
 ---
+title: What you will learn
+---
+![dmc](images/freecad-dice-dmc.png)
+--- /collapse ---
+
+--- collapse ---
+---
 title: What you will need
 ---
 ### Hardware
@@ -23,21 +30,13 @@ title: What you will need
 ### Software
 
 + [FreeCAD](https://www.freecadweb.org/)
-+ Optional [Cura](https://ultimaker.com/en/resources/51943-installation-ultimaker-cura) if you need to export your model to a `.gcode` file.
-+ Optional [Octopi](https://octoprint.org/download/) for managing your 3D printer.
++ Optional:
+    + [Cura](https://ultimaker.com/en/resources/51943-installation-ultimaker-cura) if you need to export your model to a `.gcode` file.
+    + [Octopi](https://octoprint.org/download/) for managing your 3D printer.
 
 --- /collapse ---
 
---- collapse ---
----
-title: What you will learn
----
 
-+ Know how to use basic Boolean operations on primitives
-+ Know how to create a sketch on a 3d surface
-+ Know how to create pockets in a surface from a sketch
-
---- /collapse ---
 
 --- collapse ---
 ---
