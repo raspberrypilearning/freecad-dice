@@ -19,6 +19,5 @@ steps:
 - title: Print the dice
   completion:
   - internal
-- title: What next?
   completion:
   - external
