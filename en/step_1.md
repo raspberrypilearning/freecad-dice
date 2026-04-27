@@ -29,7 +29,7 @@ title: What you will need
 
 ### Software
 
-+ [FreeCAD](https://www.freecadweb.org/)
++ [FreeCAD](https://www.freecad.org/)
 + Optional:
     + [Cura](https://ultimaker.com/en/resources/51943-installation-ultimaker-cura) if you need to export your model to a `.gcode` file.
     + [Octopi](https://octoprint.org/download/) for managing your 3D printer.
