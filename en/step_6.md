@@ -26,13 +26,16 @@ Now you need to add dots to the other faces. Use exactly the same steps:
 
 ![all_faces](images/all_faces.png)
 
---- hints --- --- hint ---
+--- hints ---
+--- hint ---
 In case you get stuck, here is a video showing you how to add the dots.
 <video width="640" height="360" controls>
 <source src="images/add-remaining-pips.webm" type="video/webm">
 Your browser does not support WebM video, try FireFox or Chrome
 </video>
 
---- /hint --- --- /hints ---
+--- /hint ---
+--- /hints ---
+
 --- /task ---
 
